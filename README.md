@@ -19,7 +19,7 @@ code is required.
 ## Getting started
 
 ```sh
-git clone https://github.com/jgbabativam/LB\_MissPLB.git
+git clone https://github.com/jgbabativam/LB_MissPLB.git
 cd LB\_MissPLB
 ```
 
