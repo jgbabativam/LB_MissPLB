@@ -1,6 +1,6 @@
 # LB\_MissPLB — Reproducibility materials for "Scalable Logistic Biplots for Large Binary Matrices via Projected-Data Coordinate Descent"
 
-Repository: [https://github.com/jgbabativam/LB\_MissPLB](https://github.com/jgbabativam/LB_MissPLB)
+Repository: [https://github.com/jgbabativam/LB_MissPLB](https://github.com/jgbabativam/LB_MissPLB)
 
 This repository reproduces the data analysis, figures, and computational
 benchmark reported in:
