@@ -20,7 +20,7 @@ code is required.
 
 ```sh
 git clone https://github.com/jgbabativam/LB_MissPLB.git
-cd LB\_MissPLB
+cd LB_MissPLB
 ```
 
 ## Requirements
